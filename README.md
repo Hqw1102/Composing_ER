@@ -22,3 +22,5 @@
 所需表结构
 序号	所属系统	表名	表名(中文名)	字段名(英文)	字段中文名	是否主键	外键-表	外键-字段	是否表码	表码名称	空值率	备注
 <img width="2984" height="29" alt="image" src="https://github.com/user-attachments/assets/afdfd7f3-11e6-4cf1-b3d9-248defe98460" />
+## 生图类似：
+<img width="1750" height="1476" alt="ER图_总览_v6" src="https://github.com/user-attachments/assets/609dc98b-6516-429a-a7e5-667ce88eed48" />
